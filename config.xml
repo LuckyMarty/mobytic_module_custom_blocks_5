@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>mobytic_custom_blocks_5</name>
+	<displayName><![CDATA[Mobytic - Custom - 5 Blocks]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Personnaliser 5 blocks]]></description>
+	<author><![CDATA[Mobytic]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
