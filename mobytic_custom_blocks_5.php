@@ -211,6 +211,7 @@ class Mobytic_custom_blocks_5 extends Module
                     array(
                         'type' => 'text',
                         'name' => 'MOBYTIC_CUSTOM_BLOCKS_5_BLOCK_1_TITLE',
+                        'prefix' => '<i class="icon icon-text-width"></i>',
                         'label' => $this->l('Titre'),
                     ),
                     array(
@@ -223,6 +224,7 @@ class Mobytic_custom_blocks_5 extends Module
                     array(
                         'type' => 'text',
                         'name' => 'MOBYTIC_CUSTOM_BLOCKS_5_BLOCK_1_URL',
+                        'prefix' => '<i class="icon icon-link"></i>',
                         'label' => $this->l('URL'),
                     ),
                 ),
@@ -248,6 +250,7 @@ class Mobytic_custom_blocks_5 extends Module
                     array(
                         'type' => 'text',
                         'name' => 'MOBYTIC_CUSTOM_BLOCKS_5_BLOCK_2_TITLE',
+                        'prefix' => '<i class="icon icon-text-width"></i>',
                         'label' => $this->l('Titre'),
                     ),
                     array(
@@ -260,6 +263,7 @@ class Mobytic_custom_blocks_5 extends Module
                     array(
                         'type' => 'text',
                         'name' => 'MOBYTIC_CUSTOM_BLOCKS_5_BLOCK_2_URL',
+                        'prefix' => '<i class="icon icon-link"></i>',
                         'label' => $this->l('URL'),
                     ),
                 ),
@@ -285,6 +289,7 @@ class Mobytic_custom_blocks_5 extends Module
                     array(
                         'type' => 'text',
                         'name' => 'MOBYTIC_CUSTOM_BLOCKS_5_BLOCK_3_TITLE',
+                        'prefix' => '<i class="icon icon-text-width"></i>',
                         'label' => $this->l('Titre'),
                     ),
                     array(
@@ -297,6 +302,7 @@ class Mobytic_custom_blocks_5 extends Module
                     array(
                         'type' => 'text',
                         'name' => 'MOBYTIC_CUSTOM_BLOCKS_5_BLOCK_3_URL',
+                        'prefix' => '<i class="icon icon-link"></i>',
                         'label' => $this->l('URL'),
                     ),
                 ),
@@ -322,6 +328,7 @@ class Mobytic_custom_blocks_5 extends Module
                     array(
                         'type' => 'text',
                         'name' => 'MOBYTIC_CUSTOM_BLOCKS_5_BLOCK_4_TITLE',
+                        'prefix' => '<i class="icon icon-text-width"></i>',
                         'label' => $this->l('Titre'),
                     ),
                     array(
@@ -334,6 +341,7 @@ class Mobytic_custom_blocks_5 extends Module
                     array(
                         'type' => 'text',
                         'name' => 'MOBYTIC_CUSTOM_BLOCKS_5_BLOCK_4_URL',
+                        'prefix' => '<i class="icon icon-link"></i>',
                         'label' => $this->l('URL'),
                     ),
                 ),
@@ -359,6 +367,7 @@ class Mobytic_custom_blocks_5 extends Module
                     array(
                         'type' => 'text',
                         'name' => 'MOBYTIC_CUSTOM_BLOCKS_5_BLOCK_5_TITLE',
+                        'prefix' => '<i class="icon icon-text-width"></i>',
                         'label' => $this->l('Titre'),
                     ),
                     array(
@@ -371,6 +380,7 @@ class Mobytic_custom_blocks_5 extends Module
                     array(
                         'type' => 'text',
                         'name' => 'MOBYTIC_CUSTOM_BLOCKS_5_BLOCK_5_URL',
+                        'prefix' => '<i class="icon icon-link"></i>',
                         'label' => $this->l('URL'),
                     ),
                 ),

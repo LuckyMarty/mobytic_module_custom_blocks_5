@@ -46,7 +46,7 @@
 	</p>
 
 	<div class="mobytic_home_behind_hook_bg">
-		<div class="container" id="mobytic_5_blocks_home">
+		<div id="mobytic_5_blocks_home">
 			<div class="row">
 				<div class="col-md-3">
 

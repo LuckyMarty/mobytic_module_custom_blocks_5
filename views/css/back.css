@@ -25,6 +25,11 @@
 * Don't forget to prefix your containers with your own identifier
 * to avoid any conflicts with others containers.
 */
+
+* {
+    scroll-behavior: smooth;
+}
+
 #block_1 {background-color: #B5EAD7 !important;}
 #block_2 {background-color: #E2F0CB !important;}
 #block_3 {background-color: #C7CEEA !important;}
