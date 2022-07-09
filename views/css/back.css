@@ -25,3 +25,61 @@
 * Don't forget to prefix your containers with your own identifier
 * to avoid any conflicts with others containers.
 */
+#block_1 {background-color: #B5EAD7 !important;}
+#block_2 {background-color: #E2F0CB !important;}
+#block_3 {background-color: #C7CEEA !important;}
+#block_4 {background-color: #FFDAC1 !important;}
+#block_5 {background-color: #FFB7B2 !important;}
+
+
+#mobytic_5_blocks_home {
+    --gap: 20px
+}
+
+#mobytic_5_blocks_home .row {
+    padding: 0
+}
+
+#mobytic_5_blocks_home .row .col-md-3,
+#mobytic_5_blocks_home .row .col-md-6 {
+    padding: 0 10px
+}
+
+#mobytic_5_blocks_home .row>div>div {
+    min-height: 200px;
+    background-color: #5f9ea0;
+    margin: var(--gap) 0;
+    position: relative;
+}
+
+#mobytic_5_blocks_home .row>div>div .mobytic_button,
+#mobytic_5_blocks_home .row>div>div .title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-transform: uppercase
+}
+
+#mobytic_5_blocks_home .row>div>div .title {
+    color: #371313;
+    font-size: 24px;
+    width: 100%;
+    padding: 0 10px;
+    text-align: center
+}
+
+#mobytic_5_blocks_home .row>div>div .mobytic_button {
+    color: #fff;
+    font-size: 24px;
+    padding: 10px 25px;
+    border-radius: 20px;
+    background-color: #eb1212
+}
+
+#mobytic_5_blocks_home .row>div:nth-child(2)>div {
+    background-color: #7fffd4;
+    height: 420px;
+    margin: var(--gap) 0
+}
